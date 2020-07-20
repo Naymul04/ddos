@@ -7,6 +7,7 @@ cd ddos
 ls
 gcc -o ddos ddos.c
 chmod +x ddos.c
+
 Usages: 
 
 ./ddos <website name> <port(Default 80)>
